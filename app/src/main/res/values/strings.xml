@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mi Aplicación</string>
+    <string name="texto_main">Nube Colectiva</string>
+    <string name="texto_ec">Enviar Correo</string>
+    <string name="texto_correo">Enviar a:</string>
+    <string name="texto_asunto">Asunto:</string>
+    <string name="texto_mensaje">Mensaje:</string>
+    <string name="texto_btn_enviar">Enviar</string>
+</resources>
