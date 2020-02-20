@@ -69,6 +69,10 @@ public class MainActivity extends AppCompatActivity {
                 .putString("Precio", "2.50")
                 .putString("Stock", "35")
                 .apply();
+        
+        // Leer los datos Encriptados en Shared Preferences
+        String nombre = sharedPreferences.getString("Nombre", "");
+        Log.e("Nombre", nombre); 
 
 
         // Obtengo los elementos de la interface
